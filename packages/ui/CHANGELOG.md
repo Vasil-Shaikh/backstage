@@ -1,5 +1,15 @@
 # @backstage/ui
 
+## 0.7.0-next.4
+
+### Minor Changes
+
+- b245c9d: Backstage UI - HeaderPage - We are updating the breadcrumb to be more visible and accessible.
+
+### Patch Changes
+
+- a251b3e: Export CardHeader, CardBody and CardFooter from Card component index
+
 ## 0.7.0-next.3
 
 ### Minor Changes

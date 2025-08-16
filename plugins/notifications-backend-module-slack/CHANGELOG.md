@@ -1,5 +1,13 @@
 # @backstage/plugin-notifications-backend-module-slack
 
+## 0.1.4-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-notifications-common@0.1.0-next.0
+  - @backstage/plugin-notifications-node@0.2.18-next.1
+
 ## 0.1.4-next.0
 
 ### Patch Changes

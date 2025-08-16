@@ -1,5 +1,12 @@
 # @backstage/plugin-catalog-backend-module-gcp
 
+## 0.3.11-next.1
+
+### Patch Changes
+
+- cb36a86: Added support for Google Service account credentials config used in GkeEntityProvider.
+  Added support for additional metadata `authProvider` and `owner` to be set for the GKE cluster entities.
+
 ## 0.3.11-next.0
 
 ### Patch Changes

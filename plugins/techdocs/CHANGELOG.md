@@ -1,5 +1,13 @@
 # @backstage/plugin-techdocs
 
+## 1.14.0-next.3
+
+### Patch Changes
+
+- f231c2b: Fixes CSS to adjust based on whether or not the global Backstage sidebar is on the page.
+- Updated dependencies
+  - @backstage/core-components@0.17.5-next.3
+
 ## 1.14.0-next.2
 
 ### Patch Changes

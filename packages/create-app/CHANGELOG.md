@@ -1,5 +1,11 @@
 # @backstage/create-app
 
+## 0.7.2-next.4
+
+### Patch Changes
+
+- e33fce1: Added Notifications and Signals to be installed by default
+
 ## 0.7.2-next.3
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-notifications
 
+## 0.5.8-next.3
+
+### Patch Changes
+
+- 5a70981: Fix duplicate notification origins with multiple channels
+- Updated dependencies
+  - @backstage/core-components@0.17.5-next.3
+  - @backstage/plugin-notifications-common@0.1.0-next.0
+
 ## 0.5.8-next.2
 
 ### Patch Changes

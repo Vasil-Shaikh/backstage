@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.17.5-next.3
+
+### Patch Changes
+
+- 1de1186: Added missing space for alert display component
+
 ## 0.17.5-next.2
 
 ### Patch Changes

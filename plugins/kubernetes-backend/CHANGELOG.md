@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.20.0-next.2
+
+### Patch Changes
+
+- 5f424c6: Added support for Google Service account credentials config to use in GoogleServiceAccountStrategy
+
 ## 0.20.0-next.1
 
 ### Minor Changes

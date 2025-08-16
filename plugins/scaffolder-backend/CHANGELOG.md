@@ -1,5 +1,12 @@
 # @backstage/plugin-scaffolder-backend
 
+## 2.2.0-next.2
+
+### Patch Changes
+
+- 4ae87f5: add `getResources` method to `permissionIntegrationRouter` for frontend task permission checks
+- b817c1d: Stop logging of `SPLAT` twice in logs
+
 ## 2.2.0-next.1
 
 ### Minor Changes

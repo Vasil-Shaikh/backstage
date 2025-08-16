@@ -1,5 +1,19 @@
 # @backstage/backend-test-utils
 
+## 1.7.1-next.1
+
+### Patch Changes
+
+- 279e1f7: Updated the type definition of `mockErrorHandler` to ensure that it is used correctly.
+
+  ```ts
+  // This is wrong and will now result in a type error
+  app.use(mockErrorHandler);
+
+  // This is the correct usage
+  app.use(mockErrorHandler());
+  ```
+
 ## 1.7.1-next.0
 
 ### Patch Changes
